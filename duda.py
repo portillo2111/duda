@@ -1,2 +1,2 @@
 print("roblox")
-input()
+input("mutilo")
